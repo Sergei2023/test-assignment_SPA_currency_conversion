@@ -1,0 +1,25 @@
+body {
+  background: #33235a;
+}
+
+table {
+  margin-left: 30vw;
+  margin-top: 10%;
+}
+
+table, td, th {
+  padding: 8px;
+  border: 3px solid #245488;
+  border-collapse: collapse;
+
+  color: black;
+  background-color: aqua;
+}
+
+#goToCalculator {
+  width: 120px;
+  height: 35px;
+
+  margin-left: 30vw;
+  margin-top: 10px;
+}
