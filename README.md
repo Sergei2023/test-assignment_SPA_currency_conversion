@@ -1,6 +1,6 @@
 # Тестовое задание: frontend
 
-[Ссылка](https://auzmit.github.io/test-assignment_SPA_currency_conversion/) на сделанное задание (сайт на github Pages)
+[Ссылка](https://sergei2023.github.io/test-assignment_SPA_currency_conversion/) на сделанное задание (сайт на github Pages)
 
 Напишите SPA для конвертирования валют. Для получения текущих курсов найдите и используйте любое отрытое API.
 
