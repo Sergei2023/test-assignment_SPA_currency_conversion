@@ -1,0 +1,12 @@
+{
+  "name": "test-assignment_spa_currency_conversion",
+  "version": "1.0.0",
+  "description": "Напишите SPA для конвертирования валют. Для получения текущих курсов найдите и используйте любое отрытое API.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
