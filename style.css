@@ -1,0 +1,53 @@
+body{
+  display: grid;
+  grid-template-columns: repeat(2, max-content);
+  grid-template-rows: repeat(2, max-content);
+  grid-template-areas:
+    'inputValue      cur1'
+    'convertedResult cur2'
+    'goToQuotes      .   ';
+  gap: 5px;
+
+  width: 15vw;
+  height: 30vh;
+  margin-left: 30vw;
+  margin-top: 10%;
+
+  color: #fff;
+  font: 18px/1.5 JetBrainsMono, monospace;
+
+  background: #33235a;
+}
+
+#inputValue {
+  grid-area: inputValue;
+}
+
+#currency1 {
+  grid-area: cur1;
+}
+
+#convertedResult {
+  grid-area: convertedResult;
+}
+
+#currency2 {
+  grid-area: cur2;
+}
+
+#goToQuotes {
+  grid-area: goToQuotes;
+  height: 35px;
+}
+
+#inputValue,
+#convertedResult {
+  width: 120px;
+  /* height: 200px; */
+}
+
+#currency1,
+#currency2 {
+  width: 53px;
+  height: 30px;
+}
